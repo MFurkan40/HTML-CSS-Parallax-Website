@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks to visit my Github! In this project, i used HTML and CSS. Here is the link for this project ()
+Thanks to visit my Github! In this project, i used HTML and CSS. Here is the link for this project (https://mfurkan40.github.io/HTML-CSS-Parallax-Website/)
 
 **To do this project, i used HTML and CSS.**
 
